@@ -1,0 +1,1 @@
+include ':estudoone', ':app', ':base', ':instantapp'
